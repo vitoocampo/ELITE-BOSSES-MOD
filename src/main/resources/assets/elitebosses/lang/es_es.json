@@ -1,0 +1,7 @@
+{
+  "entity.elitebosses.chocolate": "Chocolate",
+  "item.elitebosses.chocolate_spawn_egg": "Huevo generador de Chocolate",
+  "entity.elitebosses.houndmaster": "Sabueso",
+  "item.elitebosses.houndmaster_spawn_egg": "Huevo generador de Sabueso",
+  "itemGroup.elitebosses": "Elite Bosses"
+}
